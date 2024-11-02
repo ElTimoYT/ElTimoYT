@@ -30,7 +30,7 @@ I'm currently exploring advanced topics in **Spring Boot** and expanding my know
 
 ## 📫 How to Reach Me
 
-- Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/timotei-lucian-poenaru-2856691a3/](https://www.linkedin.com/in/timotei-lucian-poenaru-2856691a3/)) or reach out via email: [timopoepro06@gmail.com](mailto:timopoepro06@gmail.com).
+- Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/timotei-lucian-poenaru-2856691a3]) or reach out via email: [timopoepro06@gmail.com](mailto:timopoepro06@gmail.com).
 
 ---
 
